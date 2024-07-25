@@ -3,7 +3,7 @@ An inventory management application that allows users to record and manage categ
 
 Link to the website → [**Online Inventory**](https://inventory-dep.vercel.app/)
 
-![Image of the project](./client/public/project-image.png)
+![Image of the project](https://raw.githubusercontent.com/bahaungor/inventory/main/client/public/project-image.png)
 
 # Table Of Content
 - [Introduction](#introduction)
